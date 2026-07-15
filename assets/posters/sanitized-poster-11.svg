@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 960">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="hsl(213, 92%, 92%)"/><stop offset="1" stop-color="hsl(231, 92%, 58%)"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffffff" stop-opacity=".88"/><stop offset="1" stop-color="#eef7ff" stop-opacity=".72"/></linearGradient>
+  </defs>
+  <rect width="720" height="960" rx="36" fill="url(#g)"/>
+  <circle cx="110" cy="120" r="90" fill="#fff" opacity=".28"/><circle cx="650" cy="210" r="120" fill="#fff" opacity=".22"/>
+  <rect x="70" y="90" width="580" height="780" rx="30" fill="url(#card)" stroke="#fff" stroke-width="3" opacity=".9"/>
+  <path d="M120 650 C250 510 390 610 570 430" fill="none" stroke="#006eff" stroke-width="18" opacity=".55" stroke-linecap="round"/>
+  <path d="M506 430 L572 430 L572 496" fill="none" stroke="#006eff" stroke-width="18" opacity=".55" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="360" y="250" text-anchor="middle" font-family="PingFang SC, Arial" font-size="54" font-weight="800" fill="#0b376d">直播复盘案例</text>
+  <text x="360" y="322" text-anchor="middle" font-family="PingFang SC, Arial" font-size="34" font-weight="700" fill="#2f6da8">第11场 · 脱敏展示</text>
+  <text x="360" y="805" text-anchor="middle" font-family="PingFang SC, Arial" font-size="26" fill="#46627e">产品与公司信息已脱敏</text>
+</svg>
